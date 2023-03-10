@@ -7,8 +7,8 @@
 🙌 I’m currently working on my portfolio, which is being built using React and Tailwind. I am also using free resources online to teach myself the basics of Angular and TypeScript, which I plan to use to create a weather app. I love building new things from scratch, so learning a new language and framework at the same time is just a bonus!
 
 ## Connect With Me
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chrisyhlee/){:target="_blank" rel="noopener noreferrer"}
-
-
+<a href="https://www.linkedin.com/in/chrisyhlee/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 - ⚡ Fun fact: I am a fitness & health junkie!
