@@ -1,6 +1,6 @@
 ## Hiya! 😊
 
-## 👾 About Me
+### 👾 About Me
 
 👋 My name is Chris Lee, a full stack developer with a passion to learn and grow every day. I started my professional life in the U.S Army, where I was a medic in the 82nd Airborne Division. I continued to pursue medicine after my service, but realized it was not what I was looking for. That's when I found LEARN Academy's full stack bootcamp and started my journey in programming! No regrets and have not looked back since!
 
