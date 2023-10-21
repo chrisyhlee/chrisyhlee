@@ -1,4 +1,4 @@
-## Hiya! 😊
+## Hello there!
 
 ### 👾 About Me
 
